@@ -36,12 +36,6 @@
 ---
 
 
-
-### 📊 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/mauryashubhi03?theme=unicorn&font=baloo&ext=heatmap" />
-</p>
-
 <!--
 **Shubhi-03/Shubhi-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
