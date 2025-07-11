@@ -35,6 +35,10 @@
 
 ---
 
+### 📌 Pinned Projects
+[![Eavy](https://github-readme-stats.vercel.app/api/pin/?username=Shubhi-03&repo=Travel-Agency-and-Accommodation-Management-for-event-project&theme=tokyonight)](https://github.com/Shubhi-03/Travel-Agency-and-Accommodation-Management-for-event-project)
+[![Did You Mean](https://github-readme-stats.vercel.app/api/pin/?username=Shubhi-03&repo=did_u_mean-&theme=tokyonight)](https://github.com/Shubhi-03/did_u_mean-)
+
 ### 📊 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mauryashubhi03?theme=unicorn&font=baloo&ext=heatmap" />
